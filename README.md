@@ -33,6 +33,7 @@ A programming enthusiast, graduated in management engineering and since i discov
             alt="typescript" width="40" height="40" /> </a> </p>
 
 ### Social:
-***My blog:*** [solocoding](solocoding.dev/)
+***My blog:*** [solocoding](https://solocoding.dev/)
+<br>
 ***Twitter:*** [s0l0c0ding](https://twitter.com/s0l0c0ding)
 
