@@ -3,7 +3,7 @@
 A programming enthusiast, graduated in management engineering and since i discovered my passion in software development and programming, i am a full-stack  developer, continuously learning new stuff every day, improving my skills and sharing my knowledge with you.
 <br>
 
-***:pencil2: My blog:*** [solocoding](https://solocoding.dev/)
+***:pencil2: My blog:*** [solocoding.dev](https://solocoding.dev/)
 <br>
 ***:bird: Twitter:*** [s0l0c0ding](https://twitter.com/s0l0c0ding)
 
